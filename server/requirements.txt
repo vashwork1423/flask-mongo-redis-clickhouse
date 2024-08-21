@@ -4,3 +4,5 @@ pymongo==4.5.0
 flask_pymongo==2.3.0
 redis==5.0.8
 flask-caching==2.3.0
+clickhouse-connect==0.7.18
+clickhouse-driver==0.2.9
